@@ -17,4 +17,4 @@
 
 ![Available online](https://anvilproject.org/guides/content/creating-links)
 
-![](Gif_markdown.gif)
+[](Gif_markdown.gif)
