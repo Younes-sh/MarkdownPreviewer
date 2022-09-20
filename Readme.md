@@ -18,3 +18,12 @@
 [Available online](https://musical-kitsune-379bc1.netlify.app/)
 
 ![](Gif_markdown.gif)
+
+---
+
+#### Builds the app for production to the build folder.
+- npm run build
+
+The build is minified and the filenames include the hashes. Your app is ready to be deployed!
+
+##### I deployed this project by [Netlify.com](https://www.netlify.com/)
