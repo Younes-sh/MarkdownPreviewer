@@ -15,6 +15,6 @@
 - Support for defining styles via comment.
 - Support for GFM footnotes.
 
-[Available online](https://anvilproject.org/guides/content/creating-links)
+[Available online](https://musical-kitsune-379bc1.netlify.app/)
 
 ![](Gif_markdown.gif)
