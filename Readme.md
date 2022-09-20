@@ -7,6 +7,8 @@
 
 - React js
  ``` npx create-react-app markdown ```
+ 
+ ``` cd markdown ```
 ### dependency :
 ```
  $ npm install @uiw/react-markdown-preview --save
