@@ -16,4 +16,4 @@
 - Support for GFM footnotes.
 
 
-![](./assets/Gif_markdown.gif)
+![](assets/Gif_markdown.gif)
