@@ -9,6 +9,8 @@
 ```
 - $ npm install @uiw/react-markdown-preview --save
 ```
+### Run 
+``` mpm start ```
 ### Features  
 - Support dark-mode/night-mode. @v4
 - GitHub style: The markdown content is rendered as close to the way it's rendered on GitHub as possible.
