@@ -15,6 +15,6 @@
 - Support for defining styles via comment.
 - Support for GFM footnotes.
 
-![Available online](https://anvilproject.org/guides/content/creating-links)
+[Available online](https://anvilproject.org/guides/content/creating-links)
 
-[](Gif_markdown.gif)
+![](Gif_markdown.gif)
