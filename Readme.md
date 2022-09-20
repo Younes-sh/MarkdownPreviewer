@@ -6,10 +6,10 @@
 ### Technology used :
 
 - React js
-- ``` npx create-react-app markdown ```
+ ``` npx create-react-app markdown ```
 ### dependency :
 ```
-- $ npm install @uiw/react-markdown-preview --save
+ $ npm install @uiw/react-markdown-preview --save
 ```
 ### Run 
 ``` npm start ```
