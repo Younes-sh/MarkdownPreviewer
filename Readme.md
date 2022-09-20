@@ -7,12 +7,13 @@
 
 - React js
 - ``` npx create-react-app markdown ```
+- dependency :
 ```
 - $ npm install @uiw/react-markdown-preview --save
 ```
 ### Run 
 ``` npm start ```
-### Features  
+### Features : 
 - Support dark-mode/night-mode. @v4
 - GitHub style: The markdown content is rendered as close to the way it's rendered on GitHub as possible.
 - Support GFM (autolink literals, footnotes, strikethrough, tables, tasklists).
